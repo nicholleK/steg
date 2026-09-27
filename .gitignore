@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+data/
+
+features_cache_*.npz
+vit_cache_*.npz
+*.npz
+
+*.pkl
+
+.ipynb_checkpoints/
+.streamlit/
